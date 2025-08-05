@@ -1,0 +1,8 @@
+numpy
+matplotlib
+geopandas
+rasterio
+requests
+osmnx
+shapely
+folium

@@ -1,0 +1,11 @@
+Tower_ID,Latitude,Longitude,Height_m,Power_dBm,Antenna_Gain_dBi,Frequency_MHz,Tower_Type,Antenna_Type,Installation_Date,Maintenance_Status,Signal_Coverage_km2,Population_Covered,Data_Capacity_Mbps,Backup_Power,Last_Upgrade
+TOWER_001,47.9212,106.9186,30,43,15,900,Communication_Tower,Omnidirectional,2020-03-15,Good,2.5,15000,100,Yes,2023-06-20
+TOWER_002,47.9250,106.9200,25,40,12,900,Antenna,Yagi,2019-11-08,Excellent,2.0,12000,80,Yes,2022-12-15
+TOWER_003,47.9180,106.9150,35,45,18,900,Communication_Tower,Panel,2021-07-22,Good,3.2,18000,120,Yes,2023-09-10
+TOWER_004,47.9220,106.9220,20,38,10,900,Antenna,Omnidirectional,2018-05-14,Fair,1.8,10000,60,No,2021-03-25
+TOWER_005,47.9160,106.9180,40,47,20,900,Communication_Tower,Panel,2022-01-30,Excellent,3.8,22000,150,Yes,2023-11-05
+TOWER_006,47.9240,106.9160,28,42,14,900,Antenna,Yagi,2020-09-12,Good,2.2,13000,90,Yes,2023-04-18
+TOWER_007,47.9200,106.9200,32,44,16,900,Communication_Tower,Panel,2021-02-28,Good,2.8,16000,110,Yes,2023-07-30
+TOWER_008,47.9260,106.9190,22,39,11,900,Antenna,Omnidirectional,2019-06-10,Fair,1.5,8000,50,No,2022-08-12
+TOWER_009,47.9170,106.9210,38,46,19,900,Communication_Tower,Panel,2022-04-05,Excellent,3.5,20000,140,Yes,2023-10-15
+TOWER_010,47.9230,106.9170,26,41,13,900,Antenna,Yagi,2020-12-03,Good,2.0,11000,70,Yes,2023-02-28

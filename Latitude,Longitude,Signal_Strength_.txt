@@ -1,0 +1,26 @@
+Latitude,Longitude,Signal_Strength_dBm,Color_Band,Popup_Label,Tower_Distance_km,Nearest_Tower_ID,Tower_Height_m,Tower_Power_dBm,Antenna_Gain_dBi,Frequency_MHz,Path_Loss_dB,Cell_Tower_Efficiency,Best_Tower_Location
+47.9210,106.9180,-45,Excellent,"-45 dBm (Excellent) - Tower: TOWER_001",0.5,TOWER_001,30,43,15,900,88,High,Yes
+47.9210,106.9190,-65,Good,"-65 dBm (Good) - Tower: TOWER_001",1.2,TOWER_001,30,43,15,900,108,Medium,No
+47.9210,106.9200,-75,Fair,"-75 dBm (Fair) - Tower: TOWER_002",0.8,TOWER_002,25,40,12,900,115,Medium,No
+47.9210,106.9210,-85,Poor,"-85 dBm (Poor) - Tower: TOWER_003",1.5,TOWER_003,35,45,18,900,130,Low,No
+47.9210,106.9220,-95,No Signal,"-95 dBm (No Signal) - Tower: TOWER_004",2.1,TOWER_004,20,38,10,900,133,Low,No
+47.9220,106.9180,-55,Excellent,"-55 dBm (Excellent) - Tower: TOWER_002",0.6,TOWER_002,25,40,12,900,95,High,Yes
+47.9220,106.9190,-70,Good,"-70 dBm (Good) - Tower: TOWER_002",1.0,TOWER_002,25,40,12,900,110,Medium,No
+47.9220,106.9200,-80,Fair,"-80 dBm (Fair) - Tower: TOWER_003",1.3,TOWER_003,35,45,18,900,125,Medium,No
+47.9220,106.9210,-90,Poor,"-90 dBm (Poor) - Tower: TOWER_005",1.8,TOWER_005,40,47,20,900,137,Low,No
+47.9220,106.9220,-100,No Signal,"-100 dBm (No Signal) - Tower: TOWER_006",2.4,TOWER_006,28,42,14,900,142,Low,No
+47.9230,106.9180,-50,Excellent,"-50 dBm (Excellent) - Tower: TOWER_003",0.7,TOWER_003,35,45,18,900,95,High,Yes
+47.9230,106.9190,-68,Good,"-68 dBm (Good) - Tower: TOWER_003",1.1,TOWER_003,35,45,18,900,113,Medium,No
+47.9230,106.9200,-78,Fair,"-78 dBm (Fair) - Tower: TOWER_004",1.4,TOWER_004,20,38,10,900,116,Medium,No
+47.9230,106.9210,-88,Poor,"-88 dBm (Poor) - Tower: TOWER_007",1.9,TOWER_007,32,44,16,900,132,Low,No
+47.9230,106.9220,-98,No Signal,"-98 dBm (No Signal) - Tower: TOWER_008",2.5,TOWER_008,22,39,11,900,137,Low,No
+47.9240,106.9180,-60,Excellent,"-60 dBm (Excellent) - Tower: TOWER_004",0.9,TOWER_004,20,38,10,900,98,High,Yes
+47.9240,106.9190,-72,Good,"-72 dBm (Good) - Tower: TOWER_004",1.3,TOWER_004,20,38,10,900,110,Medium,No
+47.9240,106.9200,-82,Fair,"-82 dBm (Fair) - Tower: TOWER_005",1.6,TOWER_005,40,47,20,900,129,Medium,No
+47.9240,106.9210,-92,Poor,"-92 dBm (Poor) - Tower: TOWER_009",2.1,TOWER_009,38,46,19,900,138,Low,No
+47.9240,106.9220,-102,No Signal,"-102 dBm (No Signal) - Tower: TOWER_010",2.7,TOWER_010,26,41,13,900,143,Low,No
+47.9200,106.9180,-48,Excellent,"-48 dBm (Excellent) - Tower: TOWER_005",0.4,TOWER_005,40,47,20,900,95,High,Yes
+47.9200,106.9190,-62,Good,"-62 dBm (Good) - Tower: TOWER_005",1.0,TOWER_005,40,47,20,900,109,Medium,No
+47.9200,106.9200,-72,Fair,"-72 dBm (Fair) - Tower: TOWER_006",1.4,TOWER_006,28,42,14,900,114,Medium,No
+47.9200,106.9210,-82,Poor,"-82 dBm (Poor) - Tower: TOWER_007",1.7,TOWER_007,32,44,16,900,126,Low,No
+47.9200,106.9220,-92,No Signal,"-92 dBm (No Signal) - Tower: TOWER_008",2.3,TOWER_008,22,39,11,900,131,Low,No

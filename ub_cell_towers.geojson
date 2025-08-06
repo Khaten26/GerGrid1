@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [106.918, 47.906]},
+      "properties": {
+        "Tower_ID": "OPT_1",
+        "Frequency_MHz": 2300,
+        "Power_dBm": 48,
+        "Height_m": 40,
+        "Tower_Type": "Optimized_Macrocell",
+        "Status": "Proposed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [106.916, 47.909]},
+      "properties": {
+        "Tower_ID": "OPT_2",
+        "Frequency_MHz": 2300,
+        "Power_dBm": 45,
+        "Height_m": 35,
+        "Tower_Type": "Optimized_Macrocell",
+        "Status": "Proposed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [106.920, 47.903]},
+      "properties": {
+        "Tower_ID": "OPT_3",
+        "Frequency_MHz": 2300,
+        "Power_dBm": 50,
+        "Height_m": 45,
+        "Tower_Type": "Optimized_Macrocell",
+        "Status": "Proposed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [106.914, 47.907]},
+      "properties": {
+        "Tower_ID": "GAP_1",
+        "Frequency_MHz": 2300,
+        "Power_dBm": 45,
+        "Height_m": 40,
+        "Tower_Type": "Gap_Filler",
+        "Status": "Proposed"
+      }
+    }
+  ]
+}
